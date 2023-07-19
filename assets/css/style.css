@@ -302,3 +302,12 @@ footer {
 table {
     margin: 0 auto;
 }
+
+/* media query for screen size 1200 or down */
+
+@media screen and (max-width: 800px) {
+
+    #photos, #welcome {
+            column-count: 2;
+        }
+}
