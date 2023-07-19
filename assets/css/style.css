@@ -124,14 +124,14 @@ h1, h2 {
 
 #left-about {
     padding-top: 30px;
-    width: 33%;
+    width: 40%;
     float: left;
     
 }
 
 #right-about {
     padding-top: 30px;
-    width: 33%;
+    width: 40%;
     float: right;
     
 }
@@ -147,6 +147,8 @@ hr {
     float: right;
     line-height: 20px;
     clear: both;
+    margin-top: 100px;
+    text-align: center;
     
 }
 
@@ -155,14 +157,21 @@ hr {
     float: left;
     line-height: 20px;
     clear: both;
+    margin-top: 100px;
     
 }
 
 
 .right-about-heading h2 {
-    text-align: right;
+    text-align: center;
 }
 
 .right-about-heading {
-    text-align: left;
+    text-align: center;
+}
+
+#welcome {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 200%;
 }
