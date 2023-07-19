@@ -134,6 +134,7 @@ h1, h2 {
     width: 40%;
     float: right;
     
+    
 }
 
 hr {
@@ -174,4 +175,26 @@ hr {
     text-align: center;
     margin-top: 50px;
     font-size: 200%;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 7%;
+    color: blue;
+
 }
