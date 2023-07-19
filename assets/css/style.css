@@ -196,5 +196,79 @@ footer {
     margin: 1%;
     padding: 7%;
     color: blue;
+    
+    
 
 }
+
+
+
+/* gallery */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+    margin: 32px;
+    
+}
+
+#photos > img {
+    width: 100%;
+}
+
+#gallery {
+    text-align: center;
+    
+}
+/* sign up */
+
+#sign-up {
+    
+    margin-top: 100px;
+    border: 10px;
+    text-align: center;
+
+}
+
+#fname {
+    border-style: solid;
+    border-color: blue;
+    border-width: 2px;
+}
+
+#iname {
+    border-style: solid;
+    border-color: blue;
+    border-width: 2px;
+
+}
+
+#email {
+    border-style: solid;
+    border-color: blue;
+    border-width: 2px;
+}
+
+#signerup {
+    margin-bottom: 50px;
+
+}
+
+.submit-button {
+    margin-top:40px;
+    border-radius:3px;
+    padding:15px 32px 15px 32px;
+    font-size:115%;
+    background-color:blue;
+    color:#fafafa;
+    display:block;
+    text-align:center;
+    
+    
+}
+
+.submit-button:hover {
+    background-color:#fafafa;
+    color:blue;
