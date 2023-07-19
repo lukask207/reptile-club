@@ -4,7 +4,7 @@ Reptile Club is a site that brings reptile enthusiast from all over the Europe t
 ## features
 
 ### navigation bar
-[Screenshot of the navigation bar](/assets/readme_images/navigation_bar.png)
+![Screenshot of the navigation bar](/assets/readme_images/navigation_bar.png)
 Located at the top right corner of the page, this navigation bar will allow the user to easily navigate through all sections of the page. The bar contains links to About us, Gallery, Contacs us and Sign up.
 
 ### landing image
